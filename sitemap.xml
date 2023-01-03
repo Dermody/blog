@@ -3,27 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dermody.se/tags/book-review/</loc>
-    <lastmod>2023-01-01T21:58:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dermody.se/tags/est/</loc>
-    <lastmod>2023-01-01T21:58:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dermody.se/notes/mcmindfulness/</loc>
-    <lastmod>2023-01-01T21:58:47+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dermody.se/notes/</loc>
-    <lastmod>2023-01-01T21:58:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dermody.se/tags/</loc>
     <lastmod>2023-01-01T21:58:47+01:00</lastmod>
   </url>
   
@@ -35,6 +15,10 @@
   <url>
     <loc>https://dermody.se/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dermody.se/tags/</loc>
   </url>
   
 </urlset>
