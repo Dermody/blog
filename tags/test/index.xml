@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Lawrence Dermody</title>
-    <link>https://dermody.se/tags/test/</link>
+    <link>https://www.dermody.se/tags/test/</link>
     <description>Recent content in test on Lawrence Dermody</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 01 Jan 2023 21:58:47 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 21:07:01 +0100</lastBuildDate>
     
-	<atom:link href="https://dermody.se/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.dermody.se/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>McMindfulness by Ronald Purser</title>
-      <link>https://dermody.se/notes/mcmindfulness/</link>
-      <pubDate>Sun, 01 Jan 2023 21:58:47 +0100</pubDate>
+      <title>Test</title>
+      <link>https://www.dermody.se/notes/test/</link>
+      <pubDate>Wed, 18 Jan 2023 21:07:01 +0100</pubDate>
       
-      <guid>https://dermody.se/notes/mcmindfulness/</guid>
-      <description>Text goes here..</description>
+      <guid>https://www.dermody.se/notes/test/</guid>
+      <description>Does this render or?</description>
     </item>
     
   </channel>
